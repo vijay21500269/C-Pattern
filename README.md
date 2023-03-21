@@ -75,7 +75,7 @@ namespace Pascal
 ~~~
 
 ## Output:
-![output]()
+![output](https://github.com/vijay21500269/C-Pattern/blob/main/c%231.png)
 
 ## Result:
 Thus,To write a C# program for a pascal's triangle is written and executed.
