@@ -34,6 +34,10 @@ print the program.
 
 ## Program:
 ~~~
+Developed by:R.Vijay
+Reg.No:212221230121
+~~~
+~~~
 using System;
 namespace Pascal
 {
